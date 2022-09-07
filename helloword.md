@@ -14,8 +14,7 @@
 * git branch name – создание ветки 
 * Git log –graph  - журнал изменений во всех ветках  
 * git checkout -b branch_name – создать ветку и перейти на нее
-
-
+* git merge name – влить ветку в мастер
 * git checkout – переход в ветку git checkout master – переход в главную вертку (или взять название из git log) 
 
 
