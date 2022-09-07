@@ -10,6 +10,7 @@
 * Git diff – разница
 * Git log- журнал изменений (посмотреть все коммиты, выйти Q)
 * Git log –graph  - журнал изменений во всех ветках  
+* git checkout -b branch_name – создать ветку и перейти на нее
 
 
 * git checkout – переход в ветку git checkout master – переход в главную вертку (или взять название из git log) 
